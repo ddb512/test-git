@@ -6,5 +6,6 @@ public class Main {
     //本地git第二次提交
     public static void main(String[] args) {
 	    System.out.println("Hello Git");
+	System.out.println("github中修改");
     }
 }
